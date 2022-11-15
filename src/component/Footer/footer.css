@@ -1,0 +1,11 @@
+.iconSocial {
+    border-radius: 100%;
+    border-color: white;
+    width: 3.2rem; 
+    height: 3.2rem;
+    transition: all .5s;
+}
+.iconSocial:hover {
+    background-color: white;
+    color:  #2c3e50;
+}
